@@ -1,0 +1,29 @@
+{
+  "highlight": true,
+  "normalize": false,
+  "languages": {
+    "command-line": {
+      "defaultPrompt": "C:\\>",
+      "promptPattern": "^\\S*?[#$%>]\\s*",
+      "continuationPattern": "[\\\\`^]$"
+    },
+    "batch-command": {
+      "defaultPrompt": "C:\\>",
+      "promptPattern": "^\\S*?>\\s*",
+      "continuationPattern": "\\^$",
+      "alias": "batch"
+    },
+    "powershell-command": {
+      "defaultPrompt": "PS>",
+      "promptPattern": "^\\S*?>\\s*",
+      "continuationPattern": "`$",
+      "alias": "powershell"
+    },
+    "shell-command": {
+      "defaultPrompt": "$",
+      "promptPattern": "^\\S*?[#$%]\\s*",
+      "continuationPattern": "\\\\$",
+      "alias": "shell"
+    }
+  }
+}

@@ -6,7 +6,6 @@
       {
         "id": "56ceab5d043d4ad2",
         "type": "tabs",
-        "dimension": 36.958483754512635,
         "children": [
           {
             "id": "b9e18b9632f8872b",
@@ -21,16 +20,75 @@
               "icon": "lucide-file",
               "title": "Demystifying Git"
             }
+          },
+          {
+            "id": "6366fdea7ef51a79",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Demystifying Git 2026-10-29 15.43.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Demystifying Git 2026-10-29 15.43.34.excalidraw"
+            }
+          },
+          {
+            "id": "6d2b498ce07cf129",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Demystifying Git 2026-10-29 14.36.59.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Demystifying Git 2026-10-29 14.36.59.excalidraw"
+            }
+          },
+          {
+            "id": "16acfb4db4a46333",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Demystifying Git 2026-10-29 14.19.48.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Demystifying Git 2026-10-29 14.19.48.excalidraw"
+            }
+          },
+          {
+            "id": "f9cb762a01446eb4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Demystifying Git 2026-10-29 14.02.22.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Demystifying Git 2026-10-29 14.02.22.excalidraw"
+            }
+          },
+          {
+            "id": "3479b4464eb5fd0c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Demystifying Git 2026-10-29 12.36.57.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Demystifying Git 2026-10-29 12.36.57.excalidraw"
+            }
           }
         ]
       },
       {
-        "id": "6b54eb8c65284254",
+        "id": "345fd258036d84ec",
         "type": "tabs",
-        "dimension": 63.04151624548736,
         "children": [
           {
-            "id": "c6bee28ed02ddf90",
+            "id": "3dc9675ed0d2809b",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -204,18 +262,33 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "slides-extended:Show slide preview": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "slides-extended:Show slide preview": false
     }
   },
   "active": "b9e18b9632f8872b",
   "lastOpenFiles": [
-    "slide40-1.png",
-    "slide40.png",
-    "xkcd_git.png",
+    "Pasted image 20261029172327.png",
+    "Excalidraw/Demystifying Git 2026-10-29 15.43.34.excalidraw.md",
     "Demystifying Git.md",
+    "Excalidraw/Demystifying Git 2026-10-29 15.43.34.excalidraw.svg",
+    "Excalidraw/Demystifying Git 2026-10-29 14.36.59.excalidraw.md",
+    "Pasted image 20261029151746.png",
+    "run.gif",
+    "Pasted image 20261029151440.png",
+    "Pasted image 20261029151344.png",
+    "Excalidraw/Demystifying Git 2026-10-29 14.02.22.excalidraw.md",
+    "Excalidraw/Demystifying Git 2026-10-29 14.36.59.excalidraw.svg",
+    "Excalidraw/Demystifying Git 2026-10-29 14.19.48.excalidraw.md",
+    "Excalidraw/Demystifying Git 2026-10-29 12.36.57.excalidraw.md",
+    "Excalidraw/Demystifying Git 2026-10-29 11.04.13.excalidraw.md",
+    "Excalidraw/Demystifying Git 2026-10-29 09.24.59.excalidraw.md",
+    "Excalidraw/Demystifying Git 2026-10-29 09.38.07.excalidraw.md",
+    "Excalidraw/Demystifying Git 2026-10-29 14.19.48.excalidraw.svg",
+    "Pasted image 20261029140328.png",
+    "Pasted image 20261029140224.png",
+    "Excalidraw/Demystifying Git 2026-10-29 14.02.22.excalidraw.svg",
     "Excalidraw/Demystifying Git 2026-10-28 22.15.18.excalidraw.md",
-    "Excalidraw/Demystifying Git 2026-10-28 22.15.18.excalidraw.svg",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw"
